@@ -1,0 +1,23 @@
+.textField {
+      height: 30px;
+      width: 200px;
+      border: 1px solid #e5e5e5;
+      padding: 0 160px 0 16px;
+    }
+    
+.textField:hover {
+      cursor: text;
+    }
+    
+.btnBuscar {
+      height: 34px;
+      width: 30px;
+      align-items: center;
+      justify-content: center;
+    }
+    
+.barraBusqueda {
+      float: none;
+      padding: 20px;
+      text-align: center;
+    }
